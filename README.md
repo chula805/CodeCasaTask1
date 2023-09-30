@@ -22,8 +22,4 @@ Welcome to my stunning portfolio website project, crafted with ❤️ and powere
 - CSS
 - JavaScript
 
-## 📬 Contact
-
-Feel free to reach out if you have any questions or would like to collaborate. You can contact me via [email](mailto:vimukthichulani@gmail.com).
-
 Let's create something amazing together! 🚀
