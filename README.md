@@ -1,5 +1,3 @@
-# CodeCasaTask1
-
 Portfolio Website 🌟
 
 Demo Link: https://chula805.github.io/CodeCasaTask1/
