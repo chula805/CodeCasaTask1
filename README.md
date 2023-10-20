@@ -1,6 +1,6 @@
 Portfolio Website 🌟
 
-Demo Link: https://chula805.github.io/CodeCasaTask1/
+Demo Link: https://chula805.github.io/Portfolio/
 
 Welcome to my stunning portfolio website project, crafted with ❤️ and powered by HTML, CSS, and JavaScript. This showcase of my work and skills is designed to leave a lasting impression.
 
